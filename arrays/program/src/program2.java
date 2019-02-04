@@ -1,5 +1,5 @@
 import java.util.*;
-class Program2{
+class program2{
     static Scanner in = new Scanner(System.in);
     static int num[] = new int[10];
     static int rowcounter=0;

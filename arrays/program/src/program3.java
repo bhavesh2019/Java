@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Program3 {
+class program3 {
     static int[] arr;               //Array declaration
 	public static void main(String[] args) {
 	    arr = new int[5];           //Array definition
